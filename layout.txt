@@ -1,0 +1,6 @@
+-2,7,-2,1,Dining Room
+-2,1,7,1,Dining to Hallway
+7,1,7,7,Kitchen
+7,1,7,-7,Hallway
+7,-5,-2,-5,Living Room
+-2,-5,-2,-7,Window
